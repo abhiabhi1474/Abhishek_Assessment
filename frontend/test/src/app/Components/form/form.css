@@ -1,0 +1,45 @@
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+
+}
+form{
+    margin: 10px;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    background:rgb(166, 177, 175);
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height:400px;
+    margin-top: 50px;
+    text-align: left;
+
+}
+input{
+    padding:15px;
+    width: 300px;
+    border: none;
+    margin-bottom: 10px;
+}
+button{
+    background: green;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+}
+label{
+    display: flex;
+    font-size: medium;
+    font-weight: bold;
+    justify-content: flex-start;
+}
